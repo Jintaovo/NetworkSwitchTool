@@ -1,0 +1,16 @@
+﻿{
+    "localA":  "以太网",
+    "localB":  "以太网 3",
+    "wifiAdapter":  "WLAN",
+    "wifiSsid":  "Hi~",
+    "disableLocalWhenWifi":  false,
+    "preferMetric":  10,
+    "deprioritizeMetric":  1000,
+    "lastTarget":  "以太网 3",
+    "lastWired":  "以太网",
+    "autoFallback":  true,
+    "wifiAltFallback":  false,
+    "wifiConnectSeconds":  8,
+    "autoRefreshSeconds":  3,
+    "switchTimeoutSeconds":  30
+}
